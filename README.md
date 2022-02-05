@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atreya-112
 - 👀 I’m interested in networks.
-- 🌱 I’m currently learning coding and corporate etiquette.
+- 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on open source.
 - 📫 You can reach me at atreyat17@gmail.com.
 
